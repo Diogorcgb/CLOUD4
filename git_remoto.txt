@@ -1,0 +1,3 @@
+git clone - faz o clone de um repositorio numa nova pasta
+git push - faz o update feito numa pasta com o repositorio associado
+git pull - vai buscar o conteudo de um repositorio e traz para outro local 
